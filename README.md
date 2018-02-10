@@ -12,6 +12,15 @@ Refer to: <a href="https://github.com/hackerzhou/Love">hackerzhou</a>
 
 创意部分参考 <a href="https://github.com/hackerzhou/Love">hackerzhou</a>
 
+## Start
+
+``` javascript
+npm install
+npm run server //for dev
+npm run build //for public
+
+```
+
 ## TODO
 
 * 重写 type-writer
