@@ -52,10 +52,10 @@
       .type('boy', '<span class="gray">')
       .type(':', '<span class="blue">')
       .type('0', '<span class="blank">')
-      .type("'大坏蛋'", '<span class="green">')
+      .type("'大猪蹄子'", '<span class="green">')
       .wait(15)
       .del(6)
-      .type("'张文华'", '<span class="green">')
+      .type("'不，我也是大宝宝'", '<span class="green">')
       .type(',', '<span class="gray">')
       .type('0', '<br>')
       // 珊珊
@@ -63,7 +63,7 @@
       .type('girl', '<span class="gray">')
       .type(':', '<span class="blue">')
       .type('0', '<span class="blank">')
-      .type("'小仙女'", '<span class="green">')
+      .type("'小仙女，小公举'", '<span class="green">')
       .type(',', '<span class="gray">')
       .type('0', '<br>')
       // time
@@ -89,7 +89,7 @@
       .type('0', '<br>')
       // 四个空格
       .type('0000', '<span class="blank">')
-      .type('小仙女喜欢的明星', '<span class="gray">')
+      .type('你是我的', '<span class="gray">')
       .type(':', '<span class="blue">')
       .type('0', '<span class="blank">')
       .type("'杨幂'", '<span class="green heartBg">')
